@@ -27,6 +27,5 @@ Feel free to reach out for collaboration, networking, or discussions on technolo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Umang_Kaklotar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/umang-kaklotar14/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Umang_Kaklotar-black?style=for-the-badge&logo=github)](https://github.com/Umang-Kaklotar)  
-[![Email](https://img.shields.io/badge/Email-umang_kaklotar-red?style=for-the-badge&logo=gmail)](mailto:umangkaklotar14@gmail.com)  
-
+Email_Id : umangkaklotar14@gmail.com
 ---
