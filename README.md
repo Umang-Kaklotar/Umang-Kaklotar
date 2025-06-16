@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi%2C+I'm+Umang+Kaklotar;CSE'27+at+SCET;AI-ML+%7C+Web+Development+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&width=435&lines=Hi%2C+I'm+Umang+Kaklotar;CSE'27+at+SCET;AI-ML+%7C+Web+Development+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <strong>Computer Engineering Student | Passionate Problem Solver | Hackathon Enthusiast</strong>
+  <strong>Computer Engineering Student | AI-ML & Web development Enthusiast</strong>
 </p>
 
 ---
